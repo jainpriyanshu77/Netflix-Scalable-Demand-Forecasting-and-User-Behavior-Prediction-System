@@ -1,2 +1,2 @@
-# Netflix-Scalable-Demand-Forecasting-and-User-Behavior-Prediction-System
+# Netflix-Scalable-Demand-Forecasting
 Big Data Analytics , End to End Data Pipeline
